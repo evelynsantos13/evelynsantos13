@@ -1,5 +1,11 @@
-## Hi there 👋
+## Boas vindas 🌱
 
+- Estou estudando na Alura
+- Estou tentando aprender JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
+
+![](https://tenor.com/pt-BR/view/dinosaur-dancing-nessie-cute-kawaii-gif-8245402692378507513
+<!)
 <!--
 **evelynsantos13/evelynsantos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
